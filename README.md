@@ -4,9 +4,8 @@ Random Urho3D assets.
 
 Information
 -----------------------------------------------------------------------------------
-1) Sponza Simple
-Downloaded from:
-http://www.crytek.com/cryengine/cryengine3/downloads
+1) Sponza Simple - simplified sponza model originally downloaded from:
+    http://www.crytek.com/cryengine/cryengine3/downloads
+  
 
-But simplified for initial GI testing.
 
