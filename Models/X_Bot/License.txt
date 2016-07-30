@@ -1,7 +1,7 @@
 --------------------------
 note:
 --------------------------
-Mixamo License does not state that a license information must be provided with any content.  
+There is no requirement in the Mixamo License to provide any license information with any content.  
 However, for the purpose of learning, I have provided some pertinent information below.
 
 --------------------------
